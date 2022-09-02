@@ -35,7 +35,6 @@ archives:
           windows: Windows
       files:
           - Readme.MD
-          - LICENSE
 
 checksum:
     name_template: 'checksums.txt'
