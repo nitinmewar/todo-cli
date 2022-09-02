@@ -50,3 +50,11 @@ changelog:
             - 'README'
             - Merge pull request
             - Merge branch
+
+brews:
+    - github:
+          owner: nitinmewar
+          name: brew
+      folder: Formula
+      homepage: https://github.com/nitinmewar/brew
+      description: cli apps for productiity
