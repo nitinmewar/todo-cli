@@ -54,7 +54,7 @@ changelog:
 brews:
     - github:
           owner: nitinmewar
-          name: brew
+          name: homebrew-todo-cli
       folder: Formula
-      homepage: https://github.com/nitinmewar/brew
+      homepage: https://github.com/nitinmewar/todo-cli
       description: cli apps for productiity
